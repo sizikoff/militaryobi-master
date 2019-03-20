@@ -1,0 +1,20 @@
+<resources>
+
+    <!--общие-->
+    <string name="app_name">OBIMilitary</string>
+    <string name="title_main">Главная</string>
+    <string name="title_search">Поиск</string>
+    <string name="title_map">Карта</string>
+    <string name="title_busket">Корзина</string>
+    <string name="title_others">Прочее</string>
+
+    <!--ключи для базы данных-->
+    <string name="usersStoreDatabaseKey">магазин пользователя</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!--ключи для карт-->
+    <string name="api_google_map_key">AIzaSyD9Rb1fEZIHIQFdKTW7zy6Iz9q8Na8qBGA</string>
+
+
+
+</resources>
